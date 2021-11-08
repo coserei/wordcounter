@@ -1,5 +1,5 @@
 # Coserei 08/11/2021 (European date)
 
-input = input('insert text:')
-wordcount = len(input.split(" "))
-print(wordcount)
+TextInput = input('insert text:')
+wordcount = len(TextInput.split(' '))
+print('The total amount of words is: ' + wordcount)
