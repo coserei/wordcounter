@@ -1,5 +1,2 @@
-# Coserei 08/11/2021 (European date)
-
-input = input('insert text:')
-wordcount = len(input.split(" "))
-print(wordcount)
+# Coserei 07/05/2024
+print(len(input('Insert Text: ').split(" ")))
